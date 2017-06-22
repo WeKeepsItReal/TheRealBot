@@ -137,3 +137,6 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.gitignore.io/api/maven,eclipse,jetbrains
+
+# Confidential Files
+resources/config.properties
